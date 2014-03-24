@@ -9,6 +9,9 @@
   "keywords": [
     "hello"
   ],
+  "bin" : { 
+    "greet" : "./bin/greet.js"
+  },
   "author": "Ming-Zhe",
   "license": "MIT",
   "devDependencies": {
