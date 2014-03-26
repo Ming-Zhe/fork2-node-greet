@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 
-var command ＝ require("../lib/command");
+var command = require("../lib/command");
 command();
