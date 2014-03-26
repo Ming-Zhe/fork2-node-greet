@@ -1,6 +1,0 @@
-.npmignore
-.git*
-.DS_Store
-*.tgz
-test/
-src/
